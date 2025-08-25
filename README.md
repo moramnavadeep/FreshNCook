@@ -1,6 +1,7 @@
 # FreshNCook
-<img width="219" height="55" alt="image" src="https://github.com/user-attachments/assets/0e863955-4f07-475b-b2ac-f243bdb50c34" />
+live web : https://studio--recipe-remixer-kdvyi.us-central1.hosted.app/
 
+<img width="2554" height="1365" alt="image" src="https://github.com/user-attachments/assets/798c2052-41eb-48aa-afc5-85a66d37de2a" />
 
 FreshNcook is an AI-powered web application designed to reduce food waste and promote healthier living. Users upload images of vegetables or fruits, then the app detects the ingredients, evaluates their freshness and spoilage status, and suggests recipes to use nonspoiled items. It also tracks spoiled items separately to prevent waste.
 
